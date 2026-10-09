@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Helvetica, Arial, sans-serif">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker>
+<linearGradient id="mg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4c1d95"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+</defs>
+<rect width="1200" height="720" fill="#ffffff"/>
+<text x="600" y="40" text-anchor="middle" font-size="26" font-weight="700" fill="#0f172a">Machine Learning Process: 8 Inputs → t-Test → 3 Outcomes</text>
+<text x="150" y="72" text-anchor="middle" font-size="15" font-weight="700" fill="#1e40af">DATA INPUTS</text>
+<text x="600" y="200" text-anchor="middle" font-size="15" font-weight="700" fill="#5b21b6">ANALYSIS ENGINE</text>
+<text x="1050" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#047857">DESIRED OUTCOMES</text>
+<path d="M262,108 C370,108 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,182 C370,182 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,256 C370,256 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,330 C370,330 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,404 C370,404 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,478 C370,478 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,552 C370,552 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M262,626 C370,626 380,367 468,367" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M732,367 C830,367 840,187 938,187" fill="none" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M732,367 C830,367 840,367 938,367" fill="none" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M732,367 C830,367 840,547 938,547" fill="none" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="40" y="80" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="108" r="15" fill="#2563eb"/><text x="68" y="113" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">1</text>
+<text x="94" y="114" font-size="17" fill="#1e3a8a">Data Input 1</text>
+<rect x="40" y="154" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="182" r="15" fill="#2563eb"/><text x="68" y="187" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">2</text>
+<text x="94" y="188" font-size="17" fill="#1e3a8a">Data Input 2</text>
+<rect x="40" y="228" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="256" r="15" fill="#2563eb"/><text x="68" y="261" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">3</text>
+<text x="94" y="262" font-size="17" fill="#1e3a8a">Data Input 3</text>
+<rect x="40" y="302" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="330" r="15" fill="#2563eb"/><text x="68" y="335" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">4</text>
+<text x="94" y="336" font-size="17" fill="#1e3a8a">Data Input 4</text>
+<rect x="40" y="376" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="404" r="15" fill="#2563eb"/><text x="68" y="409" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">5</text>
+<text x="94" y="410" font-size="17" fill="#1e3a8a">Data Input 5</text>
+<rect x="40" y="450" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="478" r="15" fill="#2563eb"/><text x="68" y="483" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">6</text>
+<text x="94" y="484" font-size="17" fill="#1e3a8a">Data Input 6</text>
+<rect x="40" y="524" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="552" r="15" fill="#2563eb"/><text x="68" y="557" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">7</text>
+<text x="94" y="558" font-size="17" fill="#1e3a8a">Data Input 7</text>
+<rect x="40" y="598" width="220" height="56" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<circle cx="68" cy="626" r="15" fill="#2563eb"/><text x="68" y="631" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">8</text>
+<text x="94" y="632" font-size="17" fill="#1e3a8a">Data Input 8</text>
+<rect x="470" y="217" width="260" height="300" rx="18" fill="url(#mg)" stroke="#3b0764" stroke-width="3"/>
+<polygon points="593.8,276.2 593.8,283.8 586.0,285.3 584.1,291.0 589.6,296.8 585.1,303.0 577.9,299.6 573.1,303.1 574.1,310.9 566.8,313.3 563.0,306.4 557.0,306.4 553.2,313.3 545.9,310.9 546.9,303.1 542.1,299.6 534.9,303.0 530.4,296.8 535.9,291.0 534.0,285.3 526.2,283.8 526.2,276.2 534.0,274.7 535.9,269.0 530.4,263.2 534.9,257.0 542.1,260.4 546.9,256.9 545.9,249.1 553.2,246.7 557.0,253.6 563.0,253.6 566.8,246.7 574.1,249.1 573.1,256.9 577.9,260.4 585.1,257.0 589.6,263.2 584.1,269.0 586.0,274.7" fill="#c4b5fd"/><circle cx="560" cy="280" r="10.9" fill="#4c1d95"/>
+<polygon points="633.8,258.9 633.8,265.1 628.6,266.3 626.8,270.7 629.6,275.2 625.2,279.6 620.7,276.8 616.3,278.6 615.1,283.8 608.9,283.8 607.7,278.6 603.3,276.8 598.8,279.6 594.4,275.2 597.2,270.7 595.4,266.3 590.2,265.1 590.2,258.9 595.4,257.7 597.2,253.3 594.4,248.8 598.8,244.4 603.3,247.2 607.7,245.4 608.9,240.2 615.1,240.2 616.3,245.4 620.7,247.2 625.2,244.4 629.6,248.8 626.8,253.3 628.6,257.7" fill="#ddd6fe"/><circle cx="612" cy="262" r="7.0" fill="#4c1d95"/>
+<polygon points="677.8,292.5 677.8,299.5 671.3,300.8 669.4,306.0 673.5,311.2 669.0,316.5 663.2,313.4 658.5,316.1 658.3,322.7 651.4,324.0 648.9,317.8 643.5,316.9 639.1,321.8 633.1,318.3 635.2,312.0 631.6,307.8 625.1,308.8 622.7,302.2 628.3,298.7 628.3,293.3 622.7,289.8 625.1,283.2 631.6,284.2 635.2,280.0 633.1,273.7 639.1,270.2 643.5,275.1 648.9,274.2 651.4,268.0 658.3,269.3 658.5,275.9 663.2,278.6 669.0,275.5 673.5,280.8 669.4,286.0 671.3,291.2" fill="#a78bfa"/><circle cx="650" cy="296" r="9.0" fill="#4c1d95"/>
+<text x="600" y="372" text-anchor="middle" font-size="32" font-weight="700" fill="#fff">t-Test</text>
+<text x="600" y="402" text-anchor="middle" font-size="15" fill="#ede9fe">Compare group means</text>
+<rect x="492" y="420" width="216" height="74" rx="8" fill="#f5f3ff"/>
+<text x="600" y="448" text-anchor="middle" font-size="18" font-style="italic" fill="#3b0764">t = (x̄₁ − x̄₂) / SE</text>
+<text x="600" y="478" text-anchor="middle" font-size="14" fill="#5b21b6">p &lt; 0.05 → significant</text>
+<rect x="940" y="132" width="220" height="110" rx="14" fill="#ecfdf5" stroke="#059669" stroke-width="2.5"/>
+<circle cx="975" cy="187" r="20" fill="#059669"/><path d="M965,187 l7,8 l13,-15" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1008" y="183" font-size="19" font-weight="700" fill="#065f46">Outcome 1</text>
+<text x="1008" y="207" font-size="14" fill="#047857">Desired result</text>
+<rect x="940" y="312" width="220" height="110" rx="14" fill="#ecfdf5" stroke="#059669" stroke-width="2.5"/>
+<circle cx="975" cy="367" r="20" fill="#059669"/><path d="M965,367 l7,8 l13,-15" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1008" y="363" font-size="19" font-weight="700" fill="#065f46">Outcome 2</text>
+<text x="1008" y="387" font-size="14" fill="#047857">Desired result</text>
+<rect x="940" y="492" width="220" height="110" rx="14" fill="#ecfdf5" stroke="#059669" stroke-width="2.5"/>
+<circle cx="975" cy="547" r="20" fill="#059669"/><path d="M965,547 l7,8 l13,-15" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1008" y="543" font-size="19" font-weight="700" fill="#065f46">Outcome 3</text>
+<text x="1008" y="567" font-size="14" fill="#047857">Desired result</text>
+<text x="600" y="690" text-anchor="middle" font-size="14" fill="#64748b">Inputs are fed into the model, a t-test checks for statistically significant differences, and results map to three target outcomes.</text>
+</svg>
